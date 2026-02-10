@@ -45,7 +45,7 @@ A business-oriented communication platform designed to manage calls and customer
 ### 🚚 Expedys – Logistics Platform (Private)
 A logistics SaaS platform designed for B2B shipment management, pricing logic, and operational analytics.
 
-> This product is commercially available and currently used by early clients.  
+> This product is commercially available and currently used by clients.  
 > The public website presents the product and its features at https://expedys.com  
 > The full system is activated on demand for partner companies.  
 > The source code is private.
